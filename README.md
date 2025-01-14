@@ -1,6 +1,4 @@
-### README Content for Your GitHub Repository
 
----
 
 # **Blueprint Generator Using CNN** 🏠🖼️  
 A Python-based application to create 2D and 3D blueprints of buildings using Convolutional Neural Networks (CNN) principles. This tool allows users to input room dimensions and visualize the layout in both 2D and 3D formats.
@@ -73,6 +71,4 @@ pip install matplotlib plotly
 ## **License** 📜
 This project is open-source and available under the MIT License.
 
---- 
 
-Let me know if you'd like further refinements! 🚀
